@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mahmoudelsafy8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m mahmoud elsafy
+- 👀 I’m interested in data analysis trained in analysis skills using Python,Tableau,SQL and Excel with +2 years of experience at a multinational company, my goal is to utilizemy skills and management experience to help the upcoming goals and challenges
+- 🌱 I’m currently learning Advanced SQL queries and Power BI.
+- 💞️ I’m looking to collaborate on projects using Python, Tableau, SQL ...
+- 📫 Happy to reach me on my email mahmoudelsafy8@gmail.com or on my phone +966543008893.
+- Thank you for your consideration.
 
-<!---
-mahmoudelsafy8/mahmoudelsafy8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
